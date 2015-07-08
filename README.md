@@ -1,2 +1,2 @@
-# hunt_c
+# Hunt C
 Awesome C, every day.
